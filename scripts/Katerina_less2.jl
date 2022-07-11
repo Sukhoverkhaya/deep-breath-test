@@ -16,8 +16,6 @@ inp=reo_data.C6N;
 plot(reo_data.C6N)
 scatter!(data.time,reo_data.C6N[data.time])
 
-
-
 # ПОРОГОВЫЙ ДЕТЕКТОР СОБЫТИЙ
 #############################
 # out=Int[]
